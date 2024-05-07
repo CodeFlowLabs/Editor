@@ -1,5 +1,5 @@
 {
-  "description": "Official TinyMCE React Component",
+  "description": "Official Editor Mediclinics",
   "repository": {
     "url": "https://github.com/tinymce/tinymce-react"
   },
@@ -70,6 +70,6 @@
     "typescript": "~5.4.3",
     "vite": "^5.2.2"
   },
-  "version": "1.0.0",
+  "version": "5.1.0-rc",
   "name": "@tinymce/tinymce-react"
 }
